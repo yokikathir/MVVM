@@ -33,5 +33,5 @@ public class LoginViewModel extends ViewModel {
             }
         }, 2000);
     }
-    
+
 }
